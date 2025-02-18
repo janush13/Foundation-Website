@@ -1,0 +1,64 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+    <title>MOF</title>
+</head>
+<style>
+    body{
+        background-image: url(img/bg100.jpg);
+        background-repeat: no-repeat;
+        background-position: center;
+        background-attachment: fixed;
+        background-size: cover;
+    }
+
+</style>
+
+<body style="color: white;">    
+    <center>
+
+    
+        <h1 style="color: yellow;" style="padding: 5px;"> MAKKALIL ORUVAN FOUNDATION </h1> 
+        <h2 style="color: cyan;"> VISION </h2>
+        <h3 style="color: cyan;"> COMPASSION || INTEGRITY || RESPECT </h3>
+        <p>
+    
+            1. COMPASSION : Treat all individuals with empathy and kindness.
+            <br>
+            2. INTEGRITY  : Conduct all activities with honesty and transparency.
+            <br>
+            3. RESPECT    : Honor the dignity and worth of every person.
+            <br>
+        </p>
+
+</center>
+<center>
+    <img src="img/EVENT-1.jpg" width="500px"/>
+    <p style="color: white;">
+        This was the first event of our foundation where we prepared dinner for an orphanage which includes meal for nearly 35 members.
+        </p>
+    <img src="img/EVENT-2.jpg" width="500px"/>
+    <p style="color: white;">
+        The above pictures shows our second event in which we provided meal for the needy people in road sides.
+    </p>
+    <img src="img/EVENT-4.jpg" width="500px"/>
+    <p style="color: white;">
+        Then in our fourth event our team went to a village called "THIRUVENKARANAI" where provided basic need to the people before the rainy season.
+    </p>
+    <img src="img/EVENT-5.jpg" width="500px"/>
+    <p style="color: white;">
+        This is was our rececnt event where we collaborated with collaborated with "SEYAL FOUNDATION" inordered to help the people who were affected by the rain.
+    </p>
+    <img src="img/UPCOMING EVENT.jpg" width="500px"/>
+    <p>
+        This is our upcoming event which we are planning to do during the diwali holidays.
+        If you guys are interested in donating do scan the QR code or else if you guys interested in participating in field do dm "MAKKALIL ORUVAN FOUNDATION" in insta.     
+    </p>
+    <a style="color: violet;" href="https://www.instagram.com/makkaliloruvan_foundation?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==">Insta Page </a>
+    <br>
+    <a style="color: violet;" href="UCf6lao_rWp_NIIyYMo0W8tg">Youtube Channel</a>
+    <br>
+    <s1> THANK YOU FOR SPENDING YOUR VALUABLE TIME BY VISITING OUR PAGE </s1>
+</center>
+</body>    
+</html>
